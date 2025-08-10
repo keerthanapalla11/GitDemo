@@ -3,3 +3,7 @@
 
 # Ignore the log folder
 log/
+*_BACKUP_*.xml
+*_BASE_*.xml
+*_LOCAL_*.xml
+*_REMOTE_*.xml
