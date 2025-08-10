@@ -7,3 +7,4 @@ log/
 *_BASE_*.xml
 *_LOCAL_*.xml
 *_REMOTE_*.xml
+*.orig
